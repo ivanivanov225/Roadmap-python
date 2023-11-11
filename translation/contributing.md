@@ -7,3 +7,4 @@
   ° 1 - Usando os distintivos do repositório comentado no fim do README.md.
 
   ° 2 - Cada linha poderá conter entre 2 a 4 distintivos.
+  
